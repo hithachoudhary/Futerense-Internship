@@ -6,7 +6,7 @@
 
 > Details about this repository
     
-•[About](##about) •[Content](##content) •[Usage](##usage) •[Contributions](##contributions) •[Author(s)](##authors) •[Connect](##connect)
+•[About](#about) •[Content](#content) •[Usage](#usage) •[Contributions](#contributions) •[Author(s)](#authors) •[Connect](#connect)
 
 ## About
 Hi!! I'm currently working as an intern at Futurense Technologies and this repository covers the core concepts of Python contributing to building your foundation and proficiency in the programming language. 
